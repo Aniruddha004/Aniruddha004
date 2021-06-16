@@ -18,7 +18,7 @@
 <p align="center">
 <a href="https://drive.google.com/file/d/12_pnz6WNEb1PCfwtqzP_QoKVPMXUm4Fz/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-Aniruddha%20Deshmukh-blue?labelColor=grey"/></a>
 <a href="https://linkedin.com/in/aniruddha-deshmukh/"><img src="https://img.shields.io/badge/-aniruddha--deshmukh-blue?style=flat&logo=Linkedin&logoColor=white&labelColor=grey"/></a>
-<a href="mailto: anideshmukh004@gmail.com"><img src="https://img.shields.io/badge/-Mail-blue?style=flat&logo=Gmail&logoColor=white&labelColor=grey"/></a>
+<a href="mailto: anideshmukh004@gmail.com"><img src="https://img.shields.io/badge/-anideshmukh004%40gmail.com-blue?style=flat&logo=Gmail&logoColor=white&labelColor=grey"/></a>
 
 </p>
 
