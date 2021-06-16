@@ -6,12 +6,12 @@
 
 
 <a href="https://github.com/aniruddha004">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniruddha004&theme=dracula&langs_count=8&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniruddha004&theme=algolia&langs_count=8&layout=compact" />
 </a>
 <br>
 <br>
 <a href="https://github.com/aniruddha004">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aniruddha004&show_icons=true&theme=dracula&count_private=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aniruddha004&show_icons=true&theme=algolia&count_private=false" />
 </a>
 
 <!--
