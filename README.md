@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+![GitHub followers](https://img.shields.io/github/followers/aniruddha004?label=Follow&style=social)
+![](https://komarev.com/ghpvc/?username=your-github-aniruddha004&color=blueviolet)
+
+
+
+<a href="https://github.com/aniruddha004">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniruddha004&theme=dracula&langs_count=8&layout=compact" />
+</a>
+<br>
+<br>
+<a href="https://github.com/aniruddha004">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aniruddha004&show_icons=true&theme=dracula&count_private=false" />
+</a>
+
 <!--
 **Aniruddha004/Aniruddha004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
